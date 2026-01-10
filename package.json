@@ -29,7 +29,7 @@
     "@open-rpc/meta-schema": "^1.14.9",
     "@open-rpc/schema-utils-js": "^2.0.2",
     "@types/jest": "^29.5.12",
-    "@types/node": "^15.12.2",
+    "@types/node": "^25.0.3",
     "@typescript-eslint/eslint-plugin": "^4.11.1",
     "@typescript-eslint/parser": "^4.11.1",
     "eslint": "^7.17.0",
